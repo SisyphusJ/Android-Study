@@ -1,6 +1,6 @@
 # Android App Programming
 
-<img src = "http://image.yes24.com/goods/102589228/XL" width = "700">
+<img src = "./img./../img/Android_App_Programming.jpg" width = "700">
 
 저자 : 정재곤 <br>
 이지스퍼블리싱 <br>
